@@ -20,6 +20,7 @@
 		18F58DB728CFEC7900FEA180 /* HeroHeaderUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F58DB628CFEC7900FEA180 /* HeroHeaderUIView.swift */; };
 		18F58DB928D1FBF200FEA180 /* APICaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F58DB828D1FBF200FEA180 /* APICaller.swift */; };
 		18F58DBB28D2055F00FEA180 /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F58DBA28D2055F00FEA180 /* Movie.swift */; };
+		18F58DBD28D2871F00FEA180 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F58DBC28D2871F00FEA180 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		18F58DB628CFEC7900FEA180 /* HeroHeaderUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroHeaderUIView.swift; sourceTree = "<group>"; };
 		18F58DB828D1FBF200FEA180 /* APICaller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APICaller.swift; sourceTree = "<group>"; };
 		18F58DBA28D2055F00FEA180 /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
+		18F58DBC28D2871F00FEA180 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +126,7 @@
 		18F58DB228CEA03100FEA180 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				18F58DBC28D2871F00FEA180 /* Extensions.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -213,6 +216,7 @@
 				18F58DB728CFEC7900FEA180 /* HeroHeaderUIView.swift in Sources */,
 				18BC468F28CC9E42005A0651 /* DownloadsViewController.swift in Sources */,
 				18BC467428CC9384005A0651 /* AppDelegate.swift in Sources */,
+				18F58DBD28D2871F00FEA180 /* Extensions.swift in Sources */,
 				18BC467628CC9384005A0651 /* SceneDelegate.swift in Sources */,
 				18BC468B28CC9DBA005A0651 /* UpcomingViewController.swift in Sources */,
 				18F58DBB28D2055F00FEA180 /* Movie.swift in Sources */,
